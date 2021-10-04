@@ -39,7 +39,7 @@
         <dependency>
             <groupId>com.github.kaliuzhnyi</groupId>
             <artifactId>jc1c</artifactId>
-            <version>1.0.2</version>
+            <version>1.0.7</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
